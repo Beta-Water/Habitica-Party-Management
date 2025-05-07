@@ -5627,3 +5627,10 @@ Text: {"success":false,"error":"BadRequest","message":"Party size is limited to 
 ###### by [`scheduled Actions`](https://github.com/Delta-Water/Habitica-Party/).
 2025-05-07 16:56:43,810 - INFO - Invitations sent to ['M Elizabeth Ticknor'].
 2025-05-07 16:56:43,811 - INFO - Habitica party management script completed successfully.
+2025-05-07 17:24:16,342 - INFO - # 4708
+2025-05-07 17:24:26,517 - DEBUG - Request: <function get at 0x7ff029ab8550> https://habitica.com/api/v3/groups/party/members
+2025-05-07 17:24:26,518 - ERROR - Fetching party members failed: Status code 500
+Headers: {'Date': 'Wed, 07 May 2025 17:24:26 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '89', 'Connection': 'keep-alive', 'X-DNS-Prefetch-Control': 'off', 'X-Frame-Options': 'SAMEORIGIN', 'Strict-Transport-Security': 'max-age=15724800; includeSubDomains', 'X-Download-Options': 'noopen', 'X-Content-Type-Options': 'nosniff', 'X-XSS-Protection': '0', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'OPTIONS,GET,POST,PUT,HEAD,DELETE', 'Access-Control-Allow-Headers': 'Authorization,Content-Type,Accept,Content-Encoding,X-Requested-With,x-api-user,x-api-key,x-client', 'Access-Control-Expose-Headers': 'X-RateLimit-Limit,X-RateLimit-Remaining,X-RateLimit-Reset,Retry-After', 'X-Powered-By': 'Express', 'X-RateLimit-Limit': '30', 'X-RateLimit-Remaining': '29', 'X-RateLimit-Reset': 'Wed May 07 2025 17:25:16 GMT+0000 (Coordinated Universal Time)', 'Cache-Control': 'no-store', 'Vary': 'Accept-Encoding'}
+Text: {"success":false,"error":"InternalServerError","message":"An unexpected error occurred."}
+2025-05-07 17:24:31,082 - DEBUG - Request: <function get at 0x7ff029ab8550> https://habitica.com/api/v3/looking-for-party
+2025-05-07 17:24:31,082 - INFO - Habitica party management script completed successfully.
