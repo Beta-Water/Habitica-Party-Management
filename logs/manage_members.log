@@ -4160,3 +4160,37 @@ Text: {"success":false,"error":"BadRequest","message":"A Party may only have up 
 ###### by [`scheduled Actions`](https://github.com/Delta-Water/Habitica-Party/).
 2025-05-24 09:25:04,667 - INFO - Invitations sent to ['Akma Il', 'Mr Guy (Azraei Fazley)'].
 2025-05-24 09:25:04,668 - INFO - Habitica party management script completed successfully.
+2025-05-24 09:48:50,105 - INFO - # 5418
+2025-05-24 09:48:50,308 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/groups/party/members
+2025-05-24 09:48:52,415 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/088d8c92-02b2-4e20-823d-1fab25549255
+2025-05-24 09:48:54,587 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/0b41e9cd-4d27-4841-b887-1d4faf7cb390
+2025-05-24 09:48:56,792 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/0c0f7c85-363c-48ca-a502-cc7fc154a177
+2025-05-24 09:48:58,898 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/14a0584d-edf6-4065-8f3e-1afeba7bd1bf
+2025-05-24 09:49:01,007 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/2f954fc0-426a-4757-812c-28e17dd455ec
+2025-05-24 09:49:03,138 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/3e95e228-d253-482a-b95e-0130df2126e2
+2025-05-24 09:49:05,251 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/51acdc8d-e1cf-4d89-a0f0-0ecedcde9e26
+2025-05-24 09:49:07,424 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/5e02a4f8-1e76-4028-98ca-e7cfe128e6f7
+2025-05-24 09:49:09,620 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/64491d41-97f3-4428-b4d3-d7dda1cca648
+2025-05-24 09:49:11,870 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/6b458db9-0880-42ce-9e89-c335e2eb8de7
+2025-05-24 09:49:13,985 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/708ddcc9-a990-4763-b09f-48f990c121f8
+2025-05-24 09:49:16,225 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/70b71ce7-125f-43b3-b384-4592b93b19f5
+2025-05-24 09:49:18,401 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/7e4ea031-0792-4baf-a1b5-31727784af44
+2025-05-24 09:49:20,580 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/8ecdf10a-fec8-4e58-b205-987ec79ee28a
+2025-05-24 09:49:22,722 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/9e169b42-8f3c-4cdd-acb4-1f07a9203206
+2025-05-24 09:49:24,853 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/abc52830-5322-441f-aa49-907791cfc177
+2025-05-24 09:49:26,984 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/b5119d0f-7044-4ec0-beea-eb03ff75b57f
+2025-05-24 09:49:29,213 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/c6e210e3-030a-4cec-9a9a-3ba23be20a4f
+2025-05-24 09:49:31,395 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/d7a489cf-0c42-4f67-bd34-44c7dcc66425
+2025-05-24 09:49:33,503 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/dc80820e-26be-4e00-8547-2f12d03cd80d
+2025-05-24 09:49:35,611 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/e2ce7520-3ca5-45e1-acd7-4f65e14ab6c3
+2025-05-24 09:49:37,752 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/members/f764a321-64fa-48db-8ce6-fa69714a20b4
+2025-05-24 09:49:40,830 - DEBUG - Request: <function get at 0x7f5e4188d550> https://habitica.com/api/v3/looking-for-party
+2025-05-24 09:49:42,976 - DEBUG - Request: <function post at 0x7f5e4188d700> https://habitica.com/api/v3/groups/party/invite
+2025-05-24 09:49:45,421 - DEBUG - Request: <function post at 0x7f5e4188d700> https://habitica.com/api/v3/groups/party/chat
+2025-05-24 09:49:45,421 - INFO - Party chat message sent: #### Here is a list of invited member(s): 
+
+- [|Thryven|](https://habitica.com/profile/a401127b-de3c-4938-af85-f834917538f4)
+
+###### by [`scheduled Actions`](https://github.com/Delta-Water/Habitica-Party/).
+2025-05-24 09:49:45,421 - INFO - Invitations sent to ['|Thryven|'].
+2025-05-24 09:49:45,422 - INFO - Habitica party management script completed successfully.
