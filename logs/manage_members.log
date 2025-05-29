@@ -4076,3 +4076,34 @@ Text: {"success":false,"error":"BadRequest","message":"Party size is limited to 
 Headers: {'Date': 'Thu, 29 May 2025 20:29:43 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '86', 'Connection': 'keep-alive', 'X-DNS-Prefetch-Control': 'off', 'X-Frame-Options': 'SAMEORIGIN', 'Strict-Transport-Security': 'max-age=15724800; includeSubDomains', 'X-Download-Options': 'noopen', 'X-Content-Type-Options': 'nosniff', 'X-XSS-Protection': '0', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'OPTIONS,GET,POST,PUT,HEAD,DELETE', 'Access-Control-Allow-Headers': 'Authorization,Content-Type,Accept,Content-Encoding,X-Requested-With,x-api-user,x-api-key,x-client', 'Access-Control-Expose-Headers': 'X-RateLimit-Limit,X-RateLimit-Remaining,X-RateLimit-Reset,Retry-After', 'Vary': 'X-HTTP-Method-Override, Accept-Encoding', 'X-Powered-By': 'Express', 'X-RateLimit-Limit': '30', 'X-RateLimit-Remaining': '4', 'X-RateLimit-Reset': 'Thu May 29 2025 20:29:49 GMT+0000 (Coordinated Universal Time)', 'Cache-Control': 'no-store', 'Set-Cookie': 'connect:sess=eyJ1c2VySWQiOiIzZTk1ZTIyOC1kMjUzLTQ4MmEtYjk1ZS0wMTMwZGYyMTI2ZTIifQ==; path=/; expires=Sun, 27 May 2035 20:29:43 GMT; secure; httponly, connect:sess.sig=FynseEdDjagt1ffudM3gkBWhOD4; path=/; expires=Sun, 27 May 2035 20:29:43 GMT; secure; httponly'}
 Text: {"success":false,"error":"BadRequest","message":"Party size is limited to 30 members"}
 2025-05-29 20:29:43,461 - INFO - Habitica party management script completed successfully.
+2025-05-29 20:50:25,318 - INFO - # 5646
+2025-05-29 20:50:25,698 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/groups/party/members
+2025-05-29 20:50:27,929 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/018a0e53-dab9-478a-9b04-3b4d60f250ac
+2025-05-29 20:50:30,164 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/088d8c92-02b2-4e20-823d-1fab25549255
+2025-05-29 20:50:32,421 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/0b41e9cd-4d27-4841-b887-1d4faf7cb390
+2025-05-29 20:50:34,693 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/0c0f7c85-363c-48ca-a502-cc7fc154a177
+2025-05-29 20:50:36,938 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/2f954fc0-426a-4757-812c-28e17dd455ec
+2025-05-29 20:50:39,173 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/3e95e228-d253-482a-b95e-0130df2126e2
+2025-05-29 20:50:41,472 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/56363342-94ae-48bb-96e4-52ff87b0df32
+2025-05-29 20:50:43,733 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/64491d41-97f3-4428-b4d3-d7dda1cca648
+2025-05-29 20:50:46,002 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/708ddcc9-a990-4763-b09f-48f990c121f8
+2025-05-29 20:50:48,193 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/70b71ce7-125f-43b3-b384-4592b93b19f5
+2025-05-29 20:50:50,377 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/7e4ea031-0792-4baf-a1b5-31727784af44
+2025-05-29 20:50:52,611 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/8ecdf10a-fec8-4e58-b205-987ec79ee28a
+2025-05-29 20:50:54,869 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/9d23547f-9ecd-48f4-9831-ffa9728de505
+2025-05-29 20:50:57,055 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/9e169b42-8f3c-4cdd-acb4-1f07a9203206
+2025-05-29 20:50:59,271 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/a00431d1-bc42-461f-8513-8380aeb7f0bf
+2025-05-29 20:51:01,452 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/a81b0ce2-5f9b-4b7d-878d-ab399f258e0f
+2025-05-29 20:51:03,742 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/b5119d0f-7044-4ec0-beea-eb03ff75b57f
+2025-05-29 20:51:05,946 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/c6e210e3-030a-4cec-9a9a-3ba23be20a4f
+2025-05-29 20:51:08,201 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/d7a489cf-0c42-4f67-bd34-44c7dcc66425
+2025-05-29 20:51:10,417 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/dc80820e-26be-4e00-8547-2f12d03cd80d
+2025-05-29 20:51:12,601 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/e2ce7520-3ca5-45e1-acd7-4f65e14ab6c3
+2025-05-29 20:51:14,785 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/edecdbd5-5975-4d81-9d83-0cc2dce5d8a1
+2025-05-29 20:51:16,970 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/members/f764a321-64fa-48db-8ce6-fa69714a20b4
+2025-05-29 20:51:19,162 - DEBUG - Request: <function get at 0x7f09ebf37550> https://habitica.com/api/v3/looking-for-party
+2025-05-29 20:51:21,367 - DEBUG - Request: <function post at 0x7f09ebf37700> https://habitica.com/api/v3/groups/party/invite
+2025-05-29 20:51:21,367 - ERROR - Sending invitations failed: Status code 400
+Headers: {'Date': 'Thu, 29 May 2025 20:51:21 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '86', 'Connection': 'keep-alive', 'X-DNS-Prefetch-Control': 'off', 'X-Frame-Options': 'SAMEORIGIN', 'Strict-Transport-Security': 'max-age=15724800; includeSubDomains', 'X-Download-Options': 'noopen', 'X-Content-Type-Options': 'nosniff', 'X-XSS-Protection': '0', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'OPTIONS,GET,POST,PUT,HEAD,DELETE', 'Access-Control-Allow-Headers': 'Authorization,Content-Type,Accept,Content-Encoding,X-Requested-With,x-api-user,x-api-key,x-client', 'Access-Control-Expose-Headers': 'X-RateLimit-Limit,X-RateLimit-Remaining,X-RateLimit-Reset,Retry-After', 'Vary': 'X-HTTP-Method-Override, Accept-Encoding', 'X-Powered-By': 'Express', 'X-RateLimit-Limit': '30', 'X-RateLimit-Remaining': '4', 'X-RateLimit-Reset': 'Thu May 29 2025 20:51:25 GMT+0000 (Coordinated Universal Time)', 'Cache-Control': 'no-store', 'Set-Cookie': 'connect:sess=eyJ1c2VySWQiOiIzZTk1ZTIyOC1kMjUzLTQ4MmEtYjk1ZS0wMTMwZGYyMTI2ZTIifQ==; path=/; expires=Sun, 27 May 2035 20:51:21 GMT; secure; httponly, connect:sess.sig=FynseEdDjagt1ffudM3gkBWhOD4; path=/; expires=Sun, 27 May 2035 20:51:21 GMT; secure; httponly'}
+Text: {"success":false,"error":"BadRequest","message":"Party size is limited to 30 members"}
+2025-05-29 20:51:21,368 - INFO - Habitica party management script completed successfully.
