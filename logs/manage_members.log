@@ -873,3 +873,36 @@ Text: {"success":false,"error":"BadRequest","message":"Party size is limited to 
 Headers: {'Date': 'Thu, 12 Jun 2025 05:51:27 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '86', 'Connection': 'keep-alive', 'X-DNS-Prefetch-Control': 'off', 'X-Frame-Options': 'SAMEORIGIN', 'Strict-Transport-Security': 'max-age=15724800; includeSubDomains', 'X-Download-Options': 'noopen', 'X-Content-Type-Options': 'nosniff', 'X-XSS-Protection': '0', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'OPTIONS,GET,POST,PUT,HEAD,DELETE', 'Access-Control-Allow-Headers': 'Authorization,Content-Type,Accept,Content-Encoding,X-Requested-With,x-api-user,x-api-key,x-client', 'Access-Control-Expose-Headers': 'X-RateLimit-Limit,X-RateLimit-Remaining,X-RateLimit-Reset,Retry-After', 'Vary': 'X-HTTP-Method-Override, Accept-Encoding', 'X-Powered-By': 'Express', 'X-RateLimit-Limit': '30', 'X-RateLimit-Remaining': '25', 'X-RateLimit-Reset': 'Thu Jun 12 2025 05:52:18 GMT+0000 (Coordinated Universal Time)', 'Cache-Control': 'no-store', 'Set-Cookie': 'connect:sess=eyJ1c2VySWQiOiIzZTk1ZTIyOC1kMjUzLTQ4MmEtYjk1ZS0wMTMwZGYyMTI2ZTIifQ==; path=/; expires=Sun, 10 Jun 2035 05:51:27 GMT; secure; httponly, connect:sess.sig=FynseEdDjagt1ffudM3gkBWhOD4; path=/; expires=Sun, 10 Jun 2035 05:51:27 GMT; secure; httponly'}
 Text: {"success":false,"error":"BadRequest","message":"Party size is limited to 30 members"}
 2025-06-12 05:51:27,128 - INFO - Habitica party management script completed successfully.
+2025-06-12 06:38:16,876 - INFO - # 6203
+2025-06-12 06:38:17,085 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/groups/party/members
+2025-06-12 06:38:19,247 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/00b9c286-7ba5-409b-8ac4-6edbaf9dad50
+2025-06-12 06:38:21,415 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/018a0e53-dab9-478a-9b04-3b4d60f250ac
+2025-06-12 06:38:23,570 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/088d8c92-02b2-4e20-823d-1fab25549255
+2025-06-12 06:38:25,734 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/0b41e9cd-4d27-4841-b887-1d4faf7cb390
+2025-06-12 06:38:27,883 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/23ff8430-a560-45ec-89b2-ecac48633ab1
+2025-06-12 06:38:30,046 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/2f415801-3a53-41a6-afee-06b47c813573
+2025-06-12 06:38:32,188 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/2f954fc0-426a-4757-812c-28e17dd455ec
+2025-06-12 06:38:34,297 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/32482491-b1eb-4725-88f7-2f8487d7ee50
+2025-06-12 06:38:36,476 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/3e95e228-d253-482a-b95e-0130df2126e2
+2025-06-12 06:38:38,714 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/3edc88ed-9da6-4710-8dc4-2133a4c29cd8
+2025-06-12 06:38:40,894 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/47073d7f-b68c-4e1e-9ec3-a763ebb974aa
+2025-06-12 06:38:42,996 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/56363342-94ae-48bb-96e4-52ff87b0df32
+2025-06-12 06:38:45,103 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/5a13dba7-e2d5-41f7-ba86-e4bb4f1771f5
+2025-06-12 06:38:47,207 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/64491d41-97f3-4428-b4d3-d7dda1cca648
+2025-06-12 06:38:49,314 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/65f2c0bf-9ca5-461c-af41-a39c9c921878
+2025-06-12 06:38:51,416 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/6ab37561-6759-4f3b-9ab8-51cbf5e0a161
+2025-06-12 06:38:53,527 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/708ddcc9-a990-4763-b09f-48f990c121f8
+2025-06-12 06:38:55,630 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/8ecdf10a-fec8-4e58-b205-987ec79ee28a
+2025-06-12 06:38:57,777 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/9e169b42-8f3c-4cdd-acb4-1f07a9203206
+2025-06-12 06:38:59,912 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/a00431d1-bc42-461f-8513-8380aeb7f0bf
+2025-06-12 06:39:02,023 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/a81b0ce2-5f9b-4b7d-878d-ab399f258e0f
+2025-06-12 06:39:04,120 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/b5119d0f-7044-4ec0-beea-eb03ff75b57f
+2025-06-12 06:39:06,223 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/c7cafaeb-a0a6-4089-87ec-1573e101ebac
+2025-06-12 06:39:08,324 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/d458f53e-38af-4761-8019-6ec9300f885c
+2025-06-12 06:39:10,462 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/d7a489cf-0c42-4f67-bd34-44c7dcc66425
+2025-06-12 06:39:12,566 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/dc80820e-26be-4e00-8547-2f12d03cd80d
+2025-06-12 06:39:14,721 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/e2ce7520-3ca5-45e1-acd7-4f65e14ab6c3
+2025-06-12 06:39:16,817 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/f0a6bcb5-94cd-40a9-a203-25d94a10a3a1
+2025-06-12 06:39:18,979 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/members/f764a321-64fa-48db-8ce6-fa69714a20b4
+2025-06-12 06:39:21,153 - DEBUG - Request: <function get at 0x7fa3073045e0> https://habitica.com/api/v3/looking-for-party
+2025-06-12 06:39:21,153 - INFO - Habitica party management script completed successfully.
