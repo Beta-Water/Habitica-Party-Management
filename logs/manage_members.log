@@ -3890,3 +3890,35 @@ Text: {"success":false,"error":"BadRequest","message":"A Party may only have up 
 ###### by [`scheduled Actions`](https://github.com/Delta-Water/Habitica-Party/).
 2025-06-25 06:40:18,022 - INFO - Invitations sent to ['z', 'Cazador de Dragones'].
 2025-06-25 06:40:18,023 - INFO - Habitica party management script completed successfully.
+2025-06-25 06:58:51,129 - INFO - # 6743
+2025-06-25 06:58:51,361 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/groups/party/members
+2025-06-25 06:58:53,646 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/018a0e53-dab9-478a-9b04-3b4d60f250ac
+2025-06-25 06:58:55,861 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/088d8c92-02b2-4e20-823d-1fab25549255
+2025-06-25 06:58:58,094 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/0b41e9cd-4d27-4841-b887-1d4faf7cb390
+2025-06-25 06:59:00,295 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/2f415801-3a53-41a6-afee-06b47c813573
+2025-06-25 06:59:02,461 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/3e95e228-d253-482a-b95e-0130df2126e2
+2025-06-25 06:59:04,679 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/47073d7f-b68c-4e1e-9ec3-a763ebb974aa
+2025-06-25 06:59:06,984 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/4ae49883-7450-4837-8ca5-be5bdd2c56a5
+2025-06-25 06:59:09,206 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/56363342-94ae-48bb-96e4-52ff87b0df32
+2025-06-25 06:59:11,363 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/64491d41-97f3-4428-b4d3-d7dda1cca648
+2025-06-25 06:59:13,686 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/7b994239-779f-44b6-a409-af5623c3d73c
+2025-06-25 06:59:15,960 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/8ecdf10a-fec8-4e58-b205-987ec79ee28a
+2025-06-25 06:59:18,102 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/9e169b42-8f3c-4cdd-acb4-1f07a9203206
+2025-06-25 06:59:20,296 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/a00431d1-bc42-461f-8513-8380aeb7f0bf
+2025-06-25 06:59:22,461 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/b258117d-c001-4c9d-ab30-6fe93fa5d138
+2025-06-25 06:59:24,689 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/b508bbe6-435a-4ece-84a2-f62dfafe0799
+2025-06-25 06:59:26,902 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/b5119d0f-7044-4ec0-beea-eb03ff75b57f
+2025-06-25 06:59:29,011 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/c7cafaeb-a0a6-4089-87ec-1573e101ebac
+2025-06-25 06:59:31,198 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/d7a489cf-0c42-4f67-bd34-44c7dcc66425
+2025-06-25 06:59:33,324 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/dc80820e-26be-4e00-8547-2f12d03cd80d
+2025-06-25 06:59:35,547 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/members/e2ce7520-3ca5-45e1-acd7-4f65e14ab6c3
+2025-06-25 06:59:37,848 - DEBUG - Request: <function get at 0x7f1d50ba35e0> https://habitica.com/api/v3/looking-for-party
+2025-06-25 06:59:40,164 - DEBUG - Request: <function post at 0x7f1d50ba3790> https://habitica.com/api/v3/groups/party/invite
+2025-06-25 06:59:42,570 - DEBUG - Request: <function post at 0x7f1d50ba3790> https://habitica.com/api/v3/groups/party/chat
+2025-06-25 06:59:42,570 - INFO - Party chat message sent: #### Here is a list of invited member(s): 
+
+- [Kat21](https://habitica.com/profile/93492054-aed2-4a6b-83ca-756dcbb4adcc)
+
+###### by [`scheduled Actions`](https://github.com/Delta-Water/Habitica-Party/).
+2025-06-25 06:59:42,571 - INFO - Invitations sent to ['Kat21'].
+2025-06-25 06:59:42,571 - INFO - Habitica party management script completed successfully.
