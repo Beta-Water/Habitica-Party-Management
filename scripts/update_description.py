@@ -132,6 +132,7 @@ def main():
     headers = {
         "x-api-user": os.environ["HABITICA_USER_ID"],
         "x-api-key": os.environ["HABITICA_API_KEY"],
+        "x-client": os.environ["HABITICA_USER_ID"] + "AutomatePartyManagement",
         "Content-Type": "application/json"
     }
 
