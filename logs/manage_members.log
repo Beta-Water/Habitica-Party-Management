@@ -4584,3 +4584,23 @@ Text: {"success":false,"error":"BadRequest","message":"Missing x-client headers.
 2025-08-06 04:06:57,577 - DEBUG - Request: <function get at 0x7fd4bc19f5e0> https://habitica.com/api/v3/members/e2ce7520-3ca5-45e1-acd7-4f65e14ab6c3
 2025-08-06 04:06:59,743 - DEBUG - Request: <function get at 0x7fd4bc19f5e0> https://habitica.com/api/v3/looking-for-party
 2025-08-06 04:06:59,743 - INFO - Habitica party management script completed successfully.
+2025-08-06 06:38:00,963 - INFO - # 25
+2025-08-06 06:38:01,144 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/groups/party/members
+2025-08-06 06:38:03,393 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/018a0e53-dab9-478a-9b04-3b4d60f250ac
+2025-08-06 06:38:05,649 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/088d8c92-02b2-4e20-823d-1fab25549255
+2025-08-06 06:38:07,915 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/0b41e9cd-4d27-4841-b887-1d4faf7cb390
+2025-08-06 06:38:10,123 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/199690ee-b5aa-4ef3-89f4-4c955fdf4a00
+2025-08-06 06:38:12,237 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/3e95e228-d253-482a-b95e-0130df2126e2
+2025-08-06 06:38:14,432 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/47073d7f-b68c-4e1e-9ec3-a763ebb974aa
+2025-08-06 06:38:16,638 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/64491d41-97f3-4428-b4d3-d7dda1cca648
+2025-08-06 06:38:18,781 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/7b994239-779f-44b6-a409-af5623c3d73c
+2025-08-06 06:38:20,899 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/8ecdf10a-fec8-4e58-b205-987ec79ee28a
+2025-08-06 06:38:23,022 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/9e169b42-8f3c-4cdd-acb4-1f07a9203206
+2025-08-06 06:38:25,140 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/b179230f-6bbb-4c93-ae9b-4b48f6d0d5a3
+2025-08-06 06:38:27,263 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/b508bbe6-435a-4ece-84a2-f62dfafe0799
+2025-08-06 06:38:29,505 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/b5119d0f-7044-4ec0-beea-eb03ff75b57f
+2025-08-06 06:38:31,670 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/d7a489cf-0c42-4f67-bd34-44c7dcc66425
+2025-08-06 06:38:33,868 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/dc80820e-26be-4e00-8547-2f12d03cd80d
+2025-08-06 06:38:35,987 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/members/e2ce7520-3ca5-45e1-acd7-4f65e14ab6c3
+2025-08-06 06:38:38,229 - DEBUG - Request: <function get at 0x7fc819d015e0> https://habitica.com/api/v3/looking-for-party
+2025-08-06 06:38:38,230 - INFO - Habitica party management script completed successfully.
